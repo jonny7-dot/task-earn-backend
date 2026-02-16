@@ -1,4 +1,3 @@
-
 Ye ek simple backend hai jahan user chhote tasks complete karke rewards earn karta hai.
 
 > ⚠️ **Important:** Ye project **demo/simulation** mode me hai. Real-money game banane ke liye legal compliance, KYC, anti-fraud system, taxation, state-wise gaming laws aur licensed payout integration zaroori hai.
