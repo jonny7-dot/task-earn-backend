@@ -1,6 +1,3 @@
-# Task Earn Backend (Demo)
-# Task Earn Backend (Demo)
-
 
 Ye ek simple backend hai jahan user chhote tasks complete karke rewards earn karta hai.
 
